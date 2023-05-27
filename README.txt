@@ -9,6 +9,7 @@ veya
 http://batuhangenc.lovestoblog.com/index.php
 -------------------------------
 NASIL CALISTIRILIR
+veritanım.sql içerisindeki sql bilgilerini kullanacağınız veritabanı sistemine yükleyiniz.
 config dosyasindaki sunucu bilgileri uygun hale getirilerek herhangi bir tarayicida calistirilabilir
 ================================
 PROJEDE KULLANILAN
